@@ -37,3 +37,11 @@ $ pytest --base-url http://localhost
 ```
 $ pytest --headed --base-url http://localhost
 ```
+
+<a id="markdown-описание" name="Генерация тестов."></a>
+
+## Генерация тестов.
+
+```
+$ playwright codegen ${URL}
+```
