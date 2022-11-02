@@ -45,3 +45,19 @@ $ pytest --headed --base-url http://localhost
 ```
 $ playwright codegen ${URL}
 ```
+
+<a id="markdown-описание" name="Полезные ссылки."></a>
+
+## Полезные ссылки.
+
+```
+$ https://playwright.dev/python/
+```
+
+```
+$ https://devhints.io/css
+```
+
+```
+$ https://devhints.io/xpath
+```
